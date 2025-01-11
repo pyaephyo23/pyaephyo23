@@ -26,6 +26,7 @@ I'm a passionate programmer based in Yangon, Myanmar. I enjoy building innovativ
 ## 📈 GitHub Stats
 
 ![Pyae Phyo Kyaw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyaephyo23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyaephyo23&layout=compact&theme=radical)
 
 ---
 

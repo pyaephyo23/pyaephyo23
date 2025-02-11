@@ -2,10 +2,7 @@
 
 I'm a passionate programmer based in Yangon, Myanmar. I enjoy building innovative solutions and continuously expanding my skills.
 
-- 🌍 **Location:** Yangon, Myanmar  
-- 📖 **Currently Learning:**  
-  - **Frameworks:** Spring Boot, Hibernate, Angular  
-  - **Technologies:** REST API development  
+- 🌍 **Location:** Yangon, Myanmar   
 - 💼 **LinkedIn:** [Pyae Phyo Kyaw](https://www.linkedin.com/in/pyaephyo23/)  
 - 📫 **Email:** [pyaephyo.23k@gmail.com](mailto:pyaephyo.23k@gmail.com)
 
